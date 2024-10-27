@@ -38,11 +38,13 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198206721-8ad45462-2675-4be2-964f-621c8fc4490e.png)
 
 
+
 ## SKETCHS
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
-![Nethra edm ex no 1 1](https://github.com/user-attachments/assets/05c2b921-2466-4f9f-8291-57cedb317438)
+![NETHRA EX NO 1 1](https://github.com/user-attachments/assets/5092a744-4e70-410b-8aad-1b4fc04f6965)
+
 
 
 ## RESULT
